@@ -1,0 +1,29 @@
+h1 {
+  color: #007f8b;
+}
+
+h2 {
+  clear: both;
+}
+
+em {
+  font-weight: bold;
+}
+
+video {
+  clear: both;
+  display: block;
+}
+canvas {
+  clear: both;
+  display: block;
+}
+
+section {
+  opacity: 1;
+  transition: opacity 500ms ease-in-out;
+}
+
+.invisible {
+  opacity: 0.2;
+}
